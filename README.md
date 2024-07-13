@@ -2,9 +2,9 @@
 
 I'm a dedicated Full Stack Developer with a comprehensive background in backend development using Laravel and PHP, frontend development with React, and a strong focus on continuous integration and deployment using Docker and Git. I strive to enhance performance and reliability through innovative DevOps practices.
 
-https://badges.strrl.dev/contributions/all/francescocolazzo
-https://badges.strrl.dev/prs/all/francescocolazzo
-https://badges.strrl.dev/commits/all/francescocolazzo
+![Contributions](https://badges.strrl.dev/contributions/all/francescocolazzo)
+![PRs](https://badges.strrl.dev/prs/all/francescocolazzo)
+![Commits](https://badges.strrl.dev/commits/all/francescocolazzo)
 
 ## 🛠️ Skills
 
