@@ -34,11 +34,11 @@ I'm a dedicated Full Stack Developer with a comprehensive background in backend 
 
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/francesco-colazzo-734321123/
-- Email:francescocolazzo91@gmail.com
+- Email: francescocolazzo91@gmail.com
 
 Feel free to check out my repositories and contributions. I'm always open to collaborating on interesting projects and engaging in discussions about innovative ideas.
 
 ## 🚀 Projects
-- Portfolio francescocolazzo.com
+- Portfolio https://francescocolazzo.com
 
 Thank you for visiting my GitHub profile! Let's connect and create something amazing together.
