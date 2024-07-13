@@ -2,6 +2,10 @@
 
 I'm a dedicated Full Stack Developer with a comprehensive background in backend development using Laravel and PHP, frontend development with React, and a strong focus on continuous integration and deployment using Docker and Git. I strive to enhance performance and reliability through innovative DevOps practices.
 
+https://badges.strrl.dev/contributions/all/francescocolazzo
+https://badges.strrl.dev/prs/all/francescocolazzo
+https://badges.strrl.dev/commits/all/francescocolazzo
+
 ## 🛠️ Skills
 
 ### Languages and Frameworks
@@ -32,13 +36,13 @@ I'm a dedicated Full Stack Developer with a comprehensive background in backend 
 ### Junior Web Developer - Freelancer, Lecce, Italy (June 2015 - November 2017)
 - Worked on freelance projects, ensuring client satisfaction through robust development practices.
 
+## 🚀 About Me
+- Portfolio https://francescocolazzo.com
+  
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/francesco-colazzo-734321123/
 - Email: francescocolazzo91@gmail.com
 
 Feel free to check out my repositories and contributions. I'm always open to collaborating on interesting projects and engaging in discussions about innovative ideas.
-
-## 🚀 Projects
-- Portfolio https://francescocolazzo.com
 
 Thank you for visiting my GitHub profile! Let's connect and create something amazing together.
